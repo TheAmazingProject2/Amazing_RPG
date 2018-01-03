@@ -1,4 +1,4 @@
-# Cahier de suivi de projet de Quentin Garnier
+Cahier de suivi de projet de Quentin Garnier
 ==
 
 Première séance : mise en place du projet
