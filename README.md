@@ -11,4 +11,4 @@ Des photos de l'avancement de notre projet seront ajoutées au fur et à mesure.
 
 
 # Matériel utilisé :
-Nous utiliseront une carte Arduino ainsi que divers composants électroniques tels qu'un accéléromètre, un écran LED, des boutons poussoirs, des circuits imprimés et des LED.
+Nous utiliserons une carte Arduino ainsi que divers composants électroniques tels qu'un accéléromètre, un écran LED, des boutons poussoirs, des circuits imprimés et des LED.
