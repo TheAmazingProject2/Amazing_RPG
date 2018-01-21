@@ -1,8 +1,8 @@
 ![Polytech](http://www.polytechnice.fr/jahia/jsp/jahia/templates/inc/img/polytech_nice-sophia.png)
 Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Polytech'Nice Sophia
 
-# Console_De_Jeu
-Projet d'une console de jeu créée en Electronique avec Arduino ~
+# Amazing RasPocketGaming
+Projet d'une console de jeux portable avec Raspberry Pi 3 créée en « Électronique avec Arduino » : l'Amazing RPG ~
 
 
 # Description du projet :
