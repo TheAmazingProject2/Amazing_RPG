@@ -20,3 +20,10 @@ En raison du manque de la carte SD ainsi que l'écran LCD nous n'avons pas pu ut
 Cinquième séance (07/02/18)
 --
 Lors de la séance nous avons demandé de commander l'écran LCD 3.5 pouces. On a eu la possibilté de tester la carte Raspberry avec l'écran (7 pouces) qu'on a eu temporairement et la carte SD qu'on nous a passé. Suite à des nombreux essaies nous avont été confronté à un problème. Il consistait dans le fait que l'écran ne s'allumait pas ce qui était necéssaire pour installer le système operationnel sur la carte Raspberry. De plus, après la séance on s'est rendu compte que le système operationnel que la carte SD contenait ne nous convient pas pour certaines raisons. 
+
+Sixième séance (14/02/18)
+--
+Pour la séance nous avons préparé la carte SD avec le système operationnel Ubuntu. Directement nous avons téléchargé le logiciel Processing qui permettra de lire les jeux codés en Java. Cette fois-ci l'écran s'allume bien mais la résolution qui était trop grande par rapport à la taille de l'écran. Donc il était assez difficile de lire quelque chose directement sur l'écran de 3.5 pouces.  
+
+Septième séance (21/03/18)
+--
