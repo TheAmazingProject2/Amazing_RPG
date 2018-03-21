@@ -11,4 +11,4 @@ Des photos de l'avancement de notre projet seront ajoutées au fur et à mesure.
 
 
 # Matériel utilisé :
-Nous utiliserons une carte Arduino ainsi que divers composants électroniques tels qu'un accéléromètre, un écran LED, des boutons poussoirs, des circuits imprimés et des LED.
+Nous utiliserons une carte Raspberry, avec une écran LCD 3.5 pouces ainsi que divers composants électroniques, parmi lesquels nous avons des boutons poussoirs, 8 en l'occurrence, ainsi qu'un autre permettant d'activer l'alimentation de la batterie lithium, des circuits imprimés, des hauts-parleurs...
