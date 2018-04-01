@@ -27,3 +27,4 @@ Pour la séance nous avons préparé la carte SD avec le système operationnel U
 
 Septième séance (21/03/18)
 --
+Lors de cette séance nous avons cherché le moyen de changer la résolution de l'écran. Pour cela il a fallu aller dans un fichier sur la carte SD et ajouter quelques lignes de code. Puis nous avons cherché comment inverser l'axe x de l'écran car quand on tape à droite de l'écran le curseur apparaît à gauche.    
