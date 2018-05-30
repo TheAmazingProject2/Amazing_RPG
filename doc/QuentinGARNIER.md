@@ -24,4 +24,33 @@ Faute de carte SD et d'écran, nous n'avions rien pu commencé d'autre. J'ai un 
 
 Cinquième séance (7 février)
 --
-Nous avons commandé l'écran LCD 3.5 pouces, et nous avons en attendant testé la carte avec un écran temporaire, beaucoup trop grand. Cependant nous avons été confronté à de nombreux problèmes d'affichage.
+Nous avons commandé l'écran LCD 3.5 pouces, et nous avons en attendant testé la carte avec un écran temporaire, beaucoup trop grand. Cependant nous avons été confronté à de nombreux problèmes d'affichage : en effet, l'écran ne marchait tout simplement pas.
+Nous avons perdu pas mal de temps à essayé de régler ce souci, ainsi que celui de la carte SD qui avait quelques problèmes également.
+
+Sixième séance (14 février)
+--
+Premiers tests de la carte avec Ubuntu concluants : nous avons pu tester un premier programme Processing simple. Malheuresement, des problèmes de résolution nous ont ralentis.
+
+Septième séance (21 mars)
+--
+Nous avons tenté de résoudre nos problèmes de résolution, malgré les deux échecs des tentatives précédentes durant les vacances : nous avons cette fois-ci testé de modifier les fichiers du BOOT de la carte Raspberry directement. Nous sommes parvenus à un résultat, cependant l'axe des abscisses été inversé, ce qui posait un nouveau problème.
+
+Huitième séance (28 mars)
+--
+Le problème d'axe a été résolu en réinstallant d'une nouvelle façon le système Ubuntu Mate ainsi qu'une résolution d'écran plus adaptée. Le tactile fonctionne bien, et l'affichage est bon. Cependant le Bluetooth ne fonctionne plus correctement et le clavier sans fil que nous utilisions est devenu inutile ; nous avons donc dû nous débrouiller sans.
+
+Neuvième séance (5 avril)
+--
+Les problèmes sont revenus de plus belle : après quelques utilisations de la carte, la barre d'outils en haut de l'écran a disparue. Il est donc devenu impossible de faire certaines choses, notamment les réglages qui nous permettaient de débugguer le bluetooth, ce qui nous a définitivement empêché d'utiliser le clavier sans fil.
+
+Dixième séance (10 avril)
+--
+Nous avons réussit à lancer Processing sans la barre d'outils qui a disparue, et avons testé le code test pour les boutons poussoirs que nous avons reliés à la Raspberry, après avoir recherché comment les brancher sur les picots de l'écran : nous y sommes parvenu et le résultat a été concluant.
+
+Onzième séance (4 mai)
+--
+Nous avons principalement essayé de débugguer le reste du programme, malheureusement sans succès. Nous avons donc dû faire avec. Nous avons également testé le jeu du Pong et l'affichage paraît correct.
+
+Douzième séance (14 mai)
+--
+Les boutons poussoirs commandés sont arrivés, nous avons donc fait les branchements. Les fils avaient déjà été soudés à la platine. Enfin, on a modéliser avec un logiciel l'emballage de la carte, qui constituera la corps de la console dans lequel sera mis le matériel électronique. Nous avons également revus nos objectifs vu l'importante perte de temps due aux problèmes sur la Raspberry.
