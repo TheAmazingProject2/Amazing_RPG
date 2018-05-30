@@ -1,7 +1,7 @@
 Cahier de suivi de projet de Vladyslav Rybachenko
 ==
 
-Première séance : mise en place (25/12/17)
+Première séance : mise en place (18/12/17)
 --
 Les idées différentes proposées et le choix définitif du projet qui est une console de jeu portable.
 
