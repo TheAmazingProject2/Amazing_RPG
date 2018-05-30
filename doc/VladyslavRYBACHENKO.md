@@ -27,4 +27,24 @@ Pour la séance nous avons préparé la carte SD avec le système operationnel U
 
 Septième séance (21/03/18)
 --
-Lors de cette séance nous avons cherché le moyen de changer la résolution de l'écran. Pour cela il a fallu aller dans un fichier sur la carte SD et ajouter quelques lignes de code. Puis nous avons cherché comment inverser l'axe x de l'écran car quand on tape à droite de l'écran le curseur apparaît à gauche.    
+Lors de cette séance nous avons cherché le moyen de changer la résolution de l'écran. Pour cela il a fallu aller dans un fichier sur la carte SD et ajouter quelques lignes de code. Puis nous avons cherché comment inverser l'axe x de l'écran car quand on tape à droite de l'écran le curseur apparaît à gauche.  
+
+Huitième séance (28/03/18)
+--
+Les problèmes ont été résolus en reinstallant le système opérationnel Ubuntu Mate pour commencer les réglages à nouveau. Dès maintenant l'écran tactile marche sans aucun problème. 
+
+Neuvième séance (05/04/18)
+--
+Entre les deux séances on a eu un autre problème avec la carte Raspberry. Suite à quelques utilisations de la carte, la barre de menu en haut de l'écran disparaît ce qui empêche de faire certaines choses, tels que l'accès facile à Internet, réglages importants, ainsi que de lancer le terminal à partir duquel on doit lancer le programme Processing.
+
+Dixième séance (10/04/18)
+--
+Après quelques recherches on a réussi à trouver le moyen de lancer le terminal sans passer par la barre de menu cachée en noir. En faisant le branchement d'un bouton poussoir, nous avons testé si le petit code-test du Processing est compatible avec la Raspberry et marche bien. Cela a été le cas. 
+
+Onzième séance (04/05/18)
+--
+Comme l'absence de la barre de menu est très genânte pour, on a essayé pour la dernière fois résoudre ce problème mais en vain. Il n'y a pas beaucoup d'information sur Internet concernant les problèmes d'affichage et surtout celui qu'on a eu avec notre carte Raspberry. Finalement on a décidé de faire avec et de ne rien changer.
+
+Douzième séance (14/05/18)
+--
+Nous avons commandé les boutons poussoirs qui seront utilisés dans la console portable. Les soudures (sur la platine d'essaie) pour connecter les boutons à la carte Raspberry ont été fait. De plus, on a modelisé en 3D la boîte de la console où par la suite sera caché tout le matériel utilisé ainsi que les fils.  
